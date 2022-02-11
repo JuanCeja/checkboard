@@ -1,0 +1,15 @@
+table{
+    margin: 0 auto;
+}
+
+.color1{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+.color2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
